@@ -43,8 +43,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name: SANTHOSH KUMAR R
+### Register Number:212223240153
 ```
 import torch
 import torch.nn as nn
